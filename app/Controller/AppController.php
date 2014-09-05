@@ -32,3 +32,7 @@ App::uses('Controller', 'Controller');
  */
 class AppController extends Controller {
 }
+
+class CakephpController extends AppController {
+
+}
